@@ -1,26 +1,26 @@
 // qno 1
-void main(){
-int length = 12;
-int width = 15;
-if(length==width){
-  print("values are square");
-}else{
-  print("values are rectangle");
-}
-}
+// void main(){
+// int length = 12;
+// int width = 15;
+// if(length==width){
+//   print("values are square");
+// }else{
+//   print("values are rectangle");
+// }
+// }
 
-// // // qno2
+// // // // qno2
 
-void main()
-{
-  int age1 = 30;
-  int age2 = 31;
-  if(age1>age2){
-    print("$age1 is older than $age2");
-    } else {
-      print("$age1 is elder than $age2");
-  }
-}
+// void main()
+// {
+//   int age1 = 30;
+//   int age2 = 31;
+//   if(age1>age2){
+//     print("$age1 is older than $age2");
+//     } else {
+//       print("$age1 is elder than $age2");
+//   }
+// }
 
 // // // q no 3
 
