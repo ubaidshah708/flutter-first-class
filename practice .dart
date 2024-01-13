@@ -132,11 +132,11 @@
 
 
 // }
-void main(){
-List <int>name= [1,2,3,4,5];
-name.replaceRange(name.length -1,name.length, [2]);
-print (name);
-}
+// void main(){
+// List <int>name= [1,2,3,4,5];
+// name.replaceRange(name.length -1,name.length, [2]);
+// print (name);
+// }
 
 
 
