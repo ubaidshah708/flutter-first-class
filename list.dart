@@ -1,52 +1,47 @@
 // void main(){
-// List name = [1,2,3,4,5,6];
-// name .insert(1, 8);
-// print( name);
-
-// }
-// 
+// List name= ["ubaid","uzair","ali","wajid"];
+// name.replaceRange(1, 4,["saad","anas"]);
+// print(name);
 // void main(){
-// List abc = [12,34,56,55,900];
-// var xyz = List.of(abc.reversed);
-// print("Reverse list: ${xyz}");
+// List num = [1,2,'ali','waqas'];
+// num[2]= 3;
+// print(num);
+// }
+// void main(){
+// List name = ["bilal ","zaheer","ali","wahab","ubaid"]; 
+// name.sort();
+// print(name);
+// }
+// void main(){
+// List num = [9,7,5,99,08,76,3,1,2,45,];
+// num.sort();
+// print(num); 
 // }
 
-
-
-// Remove Methods
-// v
 // void main() {
-// var vals2 = [-2, 1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-// vals2.removeWhere((e) => e < 0);
-// print(vals2);
-// vals2.removeRange(0, 5);
-// print(vals2);
-// vals2.retainWhere((e) => e > 7);
-// print(vals2);
+// var lst = [1, 2, 3, 4, 5];
+// var e1 = lst.first;
+// var e2 = lst.last;
+// var e3 = lst.elementAt(1);
+// var len = lst.length;
+// print('There are $len elements in the list');
+// print('The first element is $e1');
+// print('The last element is $e2');
+// print('The second element is $e3');
+// }
+// void main (){
+// List num = [1,2,3,4,5];
+// print(num.first);
+// print(num.last);
+// print(num.elementAt(3));
+// print(num.length);
 // }
 // void main(){
-// List abc= [1,2,3,4,5,6,8,7,9,0];
-// abc.removeWhere((a) => a>3);
-// print(abc);
-
+// List name = [1,2,3,4];
+// print(name.isEmpty);
+// name.clear();
+// print(name .isNotEmpty);
 // }
-void main(){
-List abc= [1,2,3,4,5,6,8,7,9,0];
- abc.removeWhere((a) => a<3);
-print(abc);
-
-}
-
-
-
-
-
-
-
-
-
-
-
 
 
 
